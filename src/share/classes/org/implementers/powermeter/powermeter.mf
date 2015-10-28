@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Class-Path: /usr/share/java/phidget21.jar
+Main-Class: org.implementers.powermeter.Main
+X-Jarc-Target: 1.8
+
+Name: org/implementers/powermeter/Main.class
+
