@@ -7,6 +7,10 @@ import java.util.concurrent.*;
 import java.util.function.*;
 import java.util.stream.*;
 
+/**
+ * My main class.
+ * More stuff
+ */
 public class Main {
 	static class Measure {
 		final double voltage;
@@ -56,7 +60,7 @@ public class Main {
 		InterfaceKitPhidget phidget = new InterfaceKitPhidget();
 		BlockingQueue<SensorChangeEvent> queue = new LinkedBlockingQueue<>();
 		phidget.addAttachListener(event -> {
-			new Thread() {
+			new Thread()g1{
 				public void run() {
 					try {
 						while (true) {
