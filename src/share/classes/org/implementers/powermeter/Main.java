@@ -7,6 +7,11 @@ import java.util.concurrent.*;
 import java.util.function.*;
 import java.util.stream.*;
 
+/**
+ * My main class.
+ *
+ * <p>I probably need to say more about that...
+ */
 public class Main {
 	static class Measure {
 		final double voltage;
