@@ -56,6 +56,9 @@ public class Main {
 		}
 
 
+	/**
+	 * That's the main.
+	 */
 	public static void main(String... args)
 		throws Exception {
 
