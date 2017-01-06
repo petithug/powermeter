@@ -60,7 +60,7 @@ public class Main {
 		InterfaceKitPhidget phidget = new InterfaceKitPhidget();
 		BlockingQueue<SensorChangeEvent> queue = new LinkedBlockingQueue<>();
 		phidget.addAttachListener(event -> {
-			new Thread() {
+			new Thread()g1{
 				public void run() {
 					try {
 						while (true) {
