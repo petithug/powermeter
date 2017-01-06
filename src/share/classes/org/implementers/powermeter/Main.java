@@ -26,6 +26,9 @@ public class Main {
 			}
 		}
 
+	/**
+	 * More comment.
+	 */
 	private static Function<SensorChangeEvent, Stream<Measure>> convert() {
 		int[] voltage = new int[1];
 		int[] amperage = new int[1];
