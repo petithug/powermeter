@@ -10,6 +10,7 @@ import java.util.stream.*;
 /**
  * My main class.
  * More stuff
+ * More comments.
  */
 public class Main {
 	static class Measure {
@@ -26,6 +27,9 @@ public class Main {
 			}
 		}
 
+	/**
+	 * More comment.
+	 */
 	private static Function<SensorChangeEvent, Stream<Measure>> convert() {
 		int[] voltage = new int[1];
 		int[] amperage = new int[1];
