@@ -10,6 +10,7 @@ import java.util.stream.*;
 /**
  * My main class.
  * More stuff
+ * More comments.
  */
 public class Main {
 	static class Measure {
