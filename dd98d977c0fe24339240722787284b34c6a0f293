@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fabf19d9_df9373f9",
+        "filename": "src/share/classes/org/implementers/powermeter/Main.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 1001294
+      },
+      "writtenOn": "2017-01-06T16:37:59Z",
+      "side": 1,
+      "message": "Please split",
+      "revId": "dd98d977c0fe24339240722787284b34c6a0f293",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
